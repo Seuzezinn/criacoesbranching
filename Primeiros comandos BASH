@@ -1,3 +1,5 @@
+apt install neofatch
+
 #!bin/bash
 #!mkdir -p {Math, English, Geography, Arts}_{notes,examresults,portfolio}
 echo "Enter directory name"
